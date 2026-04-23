@@ -58,5 +58,5 @@ The dataset contains transactional retail data with the following columns:
 ---
 
 ## 🔗 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-- GitHub: https://github.com/YOUR-USERNAME
+- LinkedIn: www.linkedin.com/in/chaitanya-gadwala-b18972192
+- GitHub: https://github.com/chaitanyagadwalait-droid
